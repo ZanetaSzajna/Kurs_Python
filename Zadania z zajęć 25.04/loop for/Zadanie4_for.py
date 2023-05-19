@@ -5,7 +5,7 @@ N =int(input("Enter number <= 8 --> "))
 
 if N<= 8 and N>0:
     silnia =1
-    for i in range(2,N+1):
+    for i in range(1,N+1):
         silnia=silnia*i
     print("Silnia z ",i,"wynosi", silnia)
 else:
