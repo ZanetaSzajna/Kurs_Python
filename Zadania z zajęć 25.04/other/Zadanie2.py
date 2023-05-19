@@ -13,3 +13,4 @@ len_text=len(Text)
 for i in list_text:
     i=Text[::2]
 print(i)
+
