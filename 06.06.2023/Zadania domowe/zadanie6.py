@@ -24,4 +24,5 @@ class Employee:
         self.pay=pay
 
     def rise(self):
-        pay=
+        pass
+
